@@ -1,7 +1,7 @@
 # Requirements – RepairTrack
 
 ## Link del Backlog
-[PEGAR AQUÍ LINK DEL TABLERO]
+[https://github.com/users/aperezlux/projects/2/views/1]
 
 ---
 
