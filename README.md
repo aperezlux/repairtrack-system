@@ -11,4 +11,4 @@ Muchos talleres gestionan sus reparaciones en papel o WhatsApp, lo que provoca p
 - System Brief: docs/system-brief.md
 - Requirements: docs/requirements.md
 - Backlog (Project Board): [https://github.com/users/aperezlux/projects/2/views/1]
-- Video Explicativo: [VIDEO]
+- Video Explicativo: []
